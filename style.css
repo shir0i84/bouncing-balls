@@ -1,0 +1,10 @@
+canvas { 
+    background: #ffffff; 
+    display: block; 
+    margin: 0 auto; 
+    border:1px solid #000000;
+}
+
+* {
+    font-family: verdana;
+}
