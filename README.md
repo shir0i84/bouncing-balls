@@ -1,4 +1,7 @@
 # Bouncing ball
+ 1. [Bouncing ball](bouncing-ball.html)
+ 2. [Bouncing ball with tests](bouncing-ball-tests.html)
+ 3. [Bouncing ball with tests (minify)](bouncing-ball-tests-minify.html)
 
 # Client-side JS
  - Tested in Chrome 76, Firefox 69, Safari 12.1
